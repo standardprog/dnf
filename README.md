@@ -1,1 +1,1 @@
-# repo-o2kqmb92
+dnf
